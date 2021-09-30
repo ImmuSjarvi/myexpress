@@ -1,6 +1,6 @@
 # myexpress
 
-En osannu .git_ignorea. Ois kai pitänyt sisältää "node_modules/". En osannut edes poistaa sitä. Poistin myös jonkin branchin ilmeisesti.. 
+En tiedä ymmärsinkö oikein mitä ois pitänyt tehdä. En osannu ainakaa .git_ignorea. Ois kai pitänyt sisältää "node_modules/". En osannut edes poistaa sitä. Poistin myös jonkin branchin ilmeisesti.. 
 
 server = Hello world tehtävä
 server2 = Basic routing
